@@ -5,7 +5,7 @@ This is a simple to-do list app created to practice using jQuery. It utilizes HT
 
 ##How to Use
 Option 1: go into the repository and open the index.html file in your browser.
-Option 2: enter the URL " " into your browser to visit the published web app.
+Option 2: enter the URL "https://kirkenstocks.github.io/To-Do-List-App/" into your browser to visit the published web app.
 
 ##Credits
 This app was created for the CareerFoundry full-stack immersion program. The HTML and CSS were written and provided to students by CareerFoundry. The initial JavaScript code was also written by CareerFoundry, and then replaced with the equivalent jQuery code by me while retaining all original functionality.
